@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-- 🌱 I’m currently learning `golang,Kubernetes...`
+- 🌱 I’m currently learning `cybersecurity,golang,Docker...`
 
 - 📫 How to reach me: Gmail: wsb814183583@gmail.com QQ: 814183583 Wechat: i814183583
 
