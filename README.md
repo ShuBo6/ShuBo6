@@ -3,7 +3,10 @@
 ### Hi there 👋
 - 🌱 I’m currently learning `cybersecurity,golang,Docker...`
 
-- 📫 How to reach me: Gmail: wsb814183583@gmail.com QQ: 814183583 Wechat: i814183583
+- 📫 How to reach me:
+  -   Gmail: wsb814183583@gmail.com
+  - QQ: 814183583
+  - Wechat: i814183583
 
 ---
 
@@ -19,7 +22,7 @@
 
 > 目前是一名菜鸟程序员：主要使用go语言,业余使用Python，Java。
 
-> 个人博客(佛系更新，记录一些折腾的具体步骤): https://shubo6.github.io/
+> 个人博客(没咋有空更新，记录一些折腾的具体步骤): https://shubo6.github.io/
 
 
 下面是折腾过程中产生的一些仓库:
