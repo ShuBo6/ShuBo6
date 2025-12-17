@@ -10,6 +10,10 @@
 - LLM 应用开发 / LLM Application Development
 - 网络安全 / Cybersecurity
 
+### 💻 最近在用的开发语言 / Recent Languages
+
+![Skills](https://skillicons.dev/icons?i=py,go)
+
 ---
 
 ## 🌐 联系方式 / Contact
@@ -22,18 +26,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuBo6&show_icons=true&theme=default&hide_title=true)
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShuBo6)
-
----
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ShuBo6&theme=flat)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShuBo6&style=for-the-badge)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShuBo6)
 
 </div>
